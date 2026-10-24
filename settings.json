@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "aurora_assistant",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "4friendSMP.aternos.me",
-    "port": 46993,
+    "ip": "Iris1123.aternos.me",
+    "port": 61074,
     "version": "",
     "try-creative": false
   },
